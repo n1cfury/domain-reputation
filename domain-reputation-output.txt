@@ -1,0 +1,219 @@
+domain reputation output
+
+#WHOIS
+{
+	'status': [u'clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited'], 
+	'updated_date': [datetime.datetime(2016, 5, 10, 18, 44, 48)], 
+	'contacts': {'admin': {'city': u'PANAMA', 
+	'fax': u'+51.17057182', 
+	'name': u'WHOISGUARD PROTECTED', 
+	'state': u'PANAMA', 
+	'phone': u'+507.8365503', 
+	'street': u'P.O. BOX 0823-03411', 
+	'country': u'PA', 
+	'postalcode': u'00000', 
+	'organization': u'WHOISGUARD, INC.', 
+	'email': u'DA668B40F75748D09295C712486C7D79.PROTECT@WHOISGUARD.COM'}, 
+	'tech': {'city': u'PANAMA', 
+	'fax': u'+51.17057182', 
+	'name': u'WHOISGUARD PROTECTED', 
+	'state': u'PANAMA', 
+	'phone': u'+507.8365503', 
+	'street': u'P.O. BOX 0823-03411', 
+	'country': u'PA', 'postalcode': u'00000', 
+	'organization': u'WHOISGUARD, INC.', 
+	'email': u'DA668B40F75748D09295C712486C7D79.PROTECT@WHOISGUARD.COM'}, 
+	'registrant': {'city': u'PANAMA', 
+	'fax': u'+51.17057182', 
+	'name': u'WHOISGUARD PROTECTED', 
+	'state': u'PANAMA', 
+	'phone': u'+507.8365503', 
+	'street': u'P.O. BOX 0823-03411', 
+	'country': u'PA', 
+	'postalcode': u'00000', 
+	'organization': u'WHOISGUARD, INC.', 
+	'email': u'DA668B40F75748D09295C712486C7D79.PROTECT@WHOISGUARD.COM'}, 
+	'billing': None}, 
+	'nameservers': [u'DNS1.NAMECHEAPHOSTING.COM', u'DNS2.NAMECHEAPHOSTING.COM'], 
+	'expiration_date': [datetime.datetime(2019, 5, 11, 1, 44)], 
+	'emails': [u'abuse@enom.com'], 
+	'raw': [u'
+		\n 
+		\n Domain Name: N1CFURY.COM
+		\n Registry Domain ID: 2027351230_DOMAIN_COM-VRSN
+		\n Registrar WHOIS Server: whois.enom.com
+		\n Registrar URL: www.enom.com
+		\n Updated Date: 2016-05-10T18:44:48.00Z
+		\n Creation Date: 2016-05-11T01:44:00.00Z
+		\n Registrar Registration Expiration Date: 2019-05-11T01:44:00.00Z
+		\n Registrar: ENOM, INC.
+		\n Registrar IANA ID: 48
+		\n Reseller: NAMECHEAP.COM
+		\n Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+		\n Registry Registrant ID: 
+		\n Registrant Name: WHOISGUARD PROTECTED
+		\n Registrant Organization: WHOISGUARD, INC.
+		\n Registrant Street: P.O. BOX 0823-03411
+		\n Registrant City: PANAMA
+		\n Registrant State/Province: PANAMA
+		\n Registrant Postal Code: 00000
+		\n Registrant Country: PA
+		\n Registrant Phone: +507.8365503
+		\n Registrant Phone Ext: 
+		\n Registrant Fax: +51.17057182
+		\n Registrant Fax Ext:
+		\n Registrant Email: DA668B40F75748D09295C712486C7D79.PROTECT@WHOISGUARD.COM
+		\n Registry Admin ID: 
+		\n Admin Name: WHOISGUARD PROTECTED
+		\n Admin Organization: WHOISGUARD, INC.
+		\n Admin Street: P.O. BOX 0823-03411
+		\n Admin City: PANAMA
+		\n Admin State/Province: PANAMA
+		\n Admin Postal Code: 00000
+		\n Admin Country: PA
+		\n Admin Phone: +507.8365503
+		\n Admin Phone Ext: 
+		\n Admin Fax: +51.17057182
+		\n Admin Fax Ext:
+		\n Admin Email: DA668B40F75748D09295C712486C7D79.PROTECT@WHOISGUARD.COM
+		\n Registry Tech ID: 
+		\n Tech Name: WHOISGUARD PROTECTED
+		\n Tech Organization: WHOISGUARD, INC.
+		\n Tech Street: P.O. BOX 0823-03411
+		\n Tech City: PANAMA
+		\n Tech State/Province: PANAMA
+		\n Tech Postal Code: 00000
+		\n Tech Country: PA
+		\n Tech Phone: +507.8365503
+		\n Tech Phone Ext: 
+		\n Tech Fax: +51.17057182
+		\n Tech Fax Ext: 
+		\n Tech Email: DA668B40F75748D09295C712486C7D79.PROTECT@WHOISGUARD.COM
+		\n Name Server: DNS1.NAMECHEAPHOSTING.COM
+		\n Name Server: DNS2.NAMECHEAPHOSTING.COM
+		\n DNSSEC: unSigned
+		\n Registrar Abuse Contact Email: abuse@enom.com
+		\n Registrar Abuse Contact Phone: +1.4252982646
+		\n URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+		\n >>> Last update of WHOIS database: 2016-05-10T18:44:48.00Z <<<
+		\n 
+		\n For more information on Whois status codes, please visit https://icann.org/epp
+		\n 
+		\n 
+		\n The data in this whois database is provided to you for information
+		\n purposes only, that is, to assist you in obtaining information about or
+		\n related to a domain name registration record. We make this information
+		\n available "as is," and do not guarantee its accuracy. By submitting a
+		\n whois query, you agree that you will use this data only for lawful
+		\n purposes and that, under no circumstances will you use this data to: (1)
+		\n enable high volume, automated, electronic processes that stress or load
+		\n this whois database system providing you this information; or (2) allow,
+		\n enable, or otherwise support the transmission of mass unsolicited,
+		\n commercial advertising or solicitations via direct mail, electronic
+		\n mail, or by telephone. The compilation, repackaging, dissemination or
+		\n other use of this data is expressly prohibited without prior written
+		\n consent from us.  
+		\n 
+		\n We reserve the right to modify these terms at any time. By submitting
+		\n this query, you agree to abide by these terms.
+		\n Version 6.3 4/3/2002
+		\n ', u'   Domain Name: N1CFURY.COM
+		\n    Registrar: ENOM, INC.
+		\n    Sponsoring Registrar IANA ID: 48
+		\n    Whois Server: whois.enom.com
+		\n    Referral URL: http://www.enom.com
+		\n    Name Server: DNS1.NAMECHEAPHOSTING.COM
+		\n    Name Server: DNS2.NAMECHEAPHOSTING.COM
+		\n    Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+		\n    Updated Date: 12-may-2016
+		\n    Creation Date: 11-may-2016
+		\n    Expiration Date: 11-may-2019'], 
+	'whois_server': [u'whois.enom.com'], 
+	'registrar': [u'ENOM, INC.'], 
+	'creation_date': [datetime.datetime(2016, 5, 11, 1, 44)], 
+	'id': [u'2027351230_DOMAIN_COM-VRSN']
+}
+
+#VIRUSTOTAL
+Submitting a new site
+{
+	u'permalink': u'https://www.virustotal.com/url/af7a1f7805ebd494b3eea15ebd0cdd6dd98c02f736841a1286ca1fc2c043cd30/analysis/1485304770/',
+	u'resource': u'http://n1cfury.com/', 
+	u'url': u'http://n1cfury.com/', 
+	u'response_code': 1, 
+	u'scan_date': u'2017-01-25 00:39:30', 
+	u'scan_id': u'af7a1f7805ebd494b3eea15ebd0cdd6dd98c02f736841a1286ca1fc2c043cd30-1485304770', u'verbose_msg': u'Scan request successfully queued, come back later for the report'
+}
+
+Retrieving most recent results for a site
+[+] Virustotal retrieved results for n1cfury.com ...............
+{	
+	u'permalink': u'https://www.virustotal.com/url/af7a1f7805ebd494b3eea15ebd0cdd6dd98c02f736841a1286ca1fc2c043cd30/analysis/1485304770/', 
+	u'resource': u'n1cfury.com', 
+	u'url': u'http://n1cfury.com/', 
+	u'response_code': 1, 
+	u'scan_date': u'2017-01-25 00:39:30', 
+	u'scan_id': u'af7a1f7805ebd494b3eea15ebd0cdd6dd98c02f736841a1286ca1fc2c043cd30-1485304770', 
+	u'verbose_msg': u'Scan finished, scan information embedded in this object', 
+	u'filescan_id': None, 
+	u'positives': 0, 
+	u'total': 64, 
+	u'scans': {u'CLEAN MX': {u'detected': False, u'result': u'clean site'}, 
+	u'VX Vault': {u'detected': False, u'result': u'clean site'}, 
+	u'ZDB Zeus': {u'detected': False, u'result': u'clean site'}, 
+	u'Tencent': {u'detected': False, u'result': u'clean site'}, 
+	u'Netcraft': {u'detected': False, u'result': u'unrated site'}, 
+	u'PhishLabs': {u'detected': False, 
+	u'result': u'unrated site'}, u'Zerofox': {u'detected': False, 
+	u'result': u'clean site'}, u'K7AntiVirus': {u'detected': False, u'result': u'clean site'}, u'Quttera': {u'detected': False, u'result': u'clean site'}, 
+	u'AegisLab WebGuard': {u'detected': False, u'result': u'clean site'}, u'MalwareDomainList': {u'detected': False, u'result': u'clean site', 
+	u'detail': u'http://www.malwaredomainlist.com/mdl.php?search=n1cfury.com'}, 
+	u'ZeusTracker': {u'detected': False, u'result': u'clean site', 
+	u'detail': u'https://zeustracker.abuse.ch/monitor.php?host=n1cfury.com'}, 
+	u'zvelo': {u'detected': False, u'result': u'clean site'}, 
+	u'Google Safebrowsing': {u'detected': False, u'result': u'clean site'}, 
+	u'ParetoLogic': {u'detected': False, u'result': u'clean site'}, u'Kaspersky': {u'detected': False, u'result': u'unrated site'}, u'BitDefender': {u'detected': False, u'result': u'clean site'}, 
+	u'Dr.Web': {u'detected': False, u'result': u'clean site'}, 
+	u'Certly': {u'detected': False, u'result': u'clean site'}, 
+	u'G-Data': {u'detected': False, u'result': u'clean site'}, 
+	u'C-SIRT': {u'detected': False, u'result': u'clean site'}, 
+	u'OpenPhish': {u'detected': False, u'result': u'clean site'}, 
+	u'Websense ThreatSeeker': {u'detected': False, u'result': u'unrated site'}, 
+	u'MalwarePatrol': {u'detected': False, u'result': u'clean site'}, u'Webutation': {u'detected': False, u'result': u'clean site'}, u'Trustwave': {u'detected': False, u'result': u'clean site'}, u'Web Security Guard': {u'detected': False, u'result': u'clean site'}, u'desenmascara.me': {u'detected': False, u'result': u'clean site'}, u'ADMINUSLabs': {u'detected': False, u'result': u'clean site'}, 
+	u'Malwarebytes hpHosts': {u'detected': False, u'result': u'clean site'}, 
+	u'Opera': {u'detected': False, u'result': u'clean site'}, u'AlienVault': {u'detected': False, u'result': u'clean site'}, u'Emsisoft': {u'detected': False, u'result': u'clean site'}, 
+	u'Malc0de Database': {u'detected': False, u'result': u'clean site', u'detail': u'http://malc0de.com/database/index.php?search=n1cfury.com'}, 
+	u'malwares.com URL checker': {u'detected': False, u'result': u'clean site'}, 
+	u'Phishtank': {u'detected': False, u'result': u'clean site'}, 
+	u'Malwared': {u'detected': False, u'result': u'clean site'}, 
+	u'Avira': {u'detected': False, 	u'result': u'clean site'}, 
+	u'Baidu-International': {u'detected': False, u'result': u'clean site'}, 
+	u'CyberCrime': {u'detected': False, u'result': u'clean site'}, 
+	u'Antiy-AVL': {u'detected': False, u'result': u'clean site'}, 
+	u'SCUMWARE.org': {u'detected': False, u'result': u'clean site'}, 
+	u'FraudSense': {u'detected': False, u'result': u'clean site'}, u'Comodo Site Inspector': {u'detected': False, u'result': u'clean site'}, 
+	u'Malekal': {u'detected': False, u'result': u'clean site'}, 
+	u'ESET': {u'detected': False, u'result': u'clean site'}, 
+	u'Sophos': {u'detected': False, u'result': u'unrated site'}, 
+	u'Yandex Safebrowsing': {u'detected': False, u'result': u'clean site', 
+	u'detail': u'http://yandex.com/infected?l10n=en&url=http://n1cfury.com/'}, u'SecureBrain': {u'detected': False, u'result': u'clean site'}, 
+	u'Nucleon': {u'detected': False, u'result': u'clean site'}, 
+	u'Malware Domain Blocklist': {u'detected': False, u'result': u'clean site'}, 
+	u'Blueliv': {u'detected': False, u'result': u'clean site'}, 
+	u'ZCloudsec': {u'detected': False, u'result': u'clean site'}, 
+	u'AutoShun': {u'detected': False, u'result': u'unrated site'}, 
+	u'ThreatHive': {u'detected': False, u'result': u'clean site'}, 
+	u'FraudScore': {u'detected': False, u'result': u'clean site'}, 
+	u'Rising': {u'detected': False, u'result': u'clean site'}, 
+	u'URLQuery': {u'detected': False, u'result': u'unrated site'}, 
+	u'StopBadware': {u'detected': False, u'result': u'unrated site'}, 
+	u'Sucuri SiteCheck': {u'detected': False, u'result': u'clean site'}, 
+	u'Fortinet': {u'detected': False, u'result': u'clean site'}, 
+	u'ZeroCERT': {u'detected': False, u'result': u'clean site'}, 
+	u'Spam404': {u'detected': False, u'result': u'clean site'}, 
+	u'securolytics': {u'detected': False, u'result': u'clean site'}}}
+
+
+
+
+
