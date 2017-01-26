@@ -1,20 +1,23 @@
 #!/usr/bin/python
 '''
 What does this do?
-	#Checks a domain's whois info
-How you want to use it: (provide a domain name for the argument print these parsed results)
-		print "[+]   Retrieved WHOIS information for <domain>
-		Created date
-		expiration date
+	#Checks a domain's reputation from multiple sources
+How the output should look: (repeat for each service e.g. whois, virustotal, etc )
+		print "[+]   Retrieved <service> information for <domain>"
+		<parsed results>
+		
 Next iteration(s)
-	Retrieve Virustotal info for the same domain
+	Start working on output
 
 NO FUNCTIONS YET.  GETTING IT TO WORK WITH A PRE-DEFINED DOMAIN
 '''
-import pythonwhois, re, sys, requests
+import pythonwhois, senderbase 					#Third party modules that require pip install
+from senderbase import SenderBase
+import re, sys, requests
+
 
 domain = 'n1cfury.com'
-APIKEY_VIRUSTOTAL = '### PASTE API KEY HERE ###'
+APIKEY_VIRUSTOTAL = '### VIRUSTOTAL API KEY ###'
 
 #WHOIS QUERY								
 domain_query = pythonwhois.get_whois(domain)
@@ -25,10 +28,9 @@ domain_query = pythonwhois.get_whois(domain)
 params = {'apikey': APIKEY_VIRUSTOTAL, 'url': domain}
 response = requests.post('https://www.virustotal.com/vtapi/v2/url/scan', data=params)
 vts_response = response.json()
-'''
+
 
 #Retrieving results
-import requests
 headers = {
   "Accept-Encoding": "gzip, deflate",
   "User-Agent" : "gzip,  My Python requests library example client or username"
@@ -37,8 +39,12 @@ params = {'apikey': APIKEY_VIRUSTOTAL, 'resource': domain}
 response = requests.post('https://www.virustotal.com/vtapi/v2/url/report',
   params=params, headers=headers)
 vtr_response = response.json()
-print "[+] Virustotal retrieved results for "+domain+" ..............."
-print vtr_response
+'''
+
+#SENDERBASE QUERIES
+
+sb = SenderBase(timeout=30)
+my_result = sb.lookup(domain)
 
 
 '''
@@ -53,8 +59,9 @@ print vts_response
 print ""
 print "[+] Virustotal retrieved results for "+domain+" ..............."
 print vtr_response
-
-
-
+print "[+] Virustotal retrieved results for "+domain+" ..............."
+print vtr_response
+print ""
+print "[+] Senderbase retrived results for "+domain+" ............"
 
 '''
