@@ -146,7 +146,6 @@ Submitting a new site
 }
 
 Retrieving most recent results for a site
-[+] Virustotal retrieved results for n1cfury.com ...............
 {	
 	u'permalink': u'https://www.virustotal.com/url/af7a1f7805ebd494b3eea15ebd0cdd6dd98c02f736841a1286ca1fc2c043cd30/analysis/1485304770/', 
 	u'resource': u'n1cfury.com', 
@@ -213,7 +212,18 @@ Retrieving most recent results for a site
 	u'Spam404': {u'detected': False, u'result': u'clean site'}, 
 	u'securolytics': {u'detected': False, u'result': u'clean site'}}}
 
-
+#SENDERBASE
+{
+	'web_reputation': 'Neutral', 
+	'web_category': 'Search Engines and Portals', 
+	'volume_change': {
+		'last_month': None, 
+		'last_day': '6.9%'}, 
+		'domain': 'yahoo.com', 
+		'host_name': 'yahoo.com', 
+	'email_volume': {
+		'last_month': '8.1', 
+		'last_day': '8.1'}}
 
 
 
