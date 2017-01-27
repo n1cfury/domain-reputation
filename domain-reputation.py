@@ -10,8 +10,8 @@ usage = "python domain-reputation.py <domain name> "
 
 def banner():
 	print "################################################################"
-	print "###############	  Domain Reputation tool		###############"
-	print "###############			by n1cFury			    ###############"
+	print "###############	  Domain Reputation tool	###############"
+	print "###############		by n1cFury	        ###############"
 	print "################################################################"
 
 #WHOIS QUERY	
