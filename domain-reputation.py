@@ -4,7 +4,7 @@ import pythonwhois, senderbase, re, sys, requests			#Third party modules that re
 from senderbase import SenderBase
 
 domain = sys.argv[1]
-APIKEY_VIRUSTOTAL = '060784e151263e1e6157d2565e31eaf069f2a7f8b84482f9cd5bdcc873c6c2e9'
+APIKEY_VIRUSTOTAL = 'PUT VIRUSTOTAL API KEY HERE'
 
 usage = "python domain-reputation.py <domain name> "
 
