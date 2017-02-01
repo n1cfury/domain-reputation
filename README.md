@@ -3,17 +3,15 @@ This tool is used to gather reputation information from multiple sources.  This 
 
 What you'll need for this tool:
 Additional modules you'll need to install:  senderbase, virustotal
-Both of these modules are pip installable
+Both of these modules are are installed using pip
 	sudo python pip install senderbase
 	sudo python pip install virustotal
 
 
 So far I have three sources set up.  I'm in the process of making the output neater (i.e. parsing)
 
-	WHOIS:  	I will likely find another source (probably senderbase) that has this information included
+	WHOIS:  		I will likely change how this gathers WHOIS information.
 	
-	VIRUSTOTAL: 	There are many queries you can make, but for this tool I'm sticking with reputation by domain
-			The query will have either an option to submit a query, or retrive an existing one.  For the 
-			sake of the API, run this against pre-existing queries.
+	VIRUSTOTAL: 	This will retrieve domains that have already been searched for the sake of the API.
 	
-	SENDERBASE: 	This is primarily used for email domains
+	SENDERBASE: 	This is primarily used for tracking reputation of mail domains.  
